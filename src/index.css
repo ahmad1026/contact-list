@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: Shabnam;
+}
+
+
+@font-face {
+    font-family: Shabnam;
+    src: url('./assets/fonts/Shabnam-Thin-FD.woff2');
+}
